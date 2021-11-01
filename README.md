@@ -15,7 +15,12 @@
 <img src="img/html.png" width="30" height="30">
 <img src="img/visual-studio-code.png" width="30" height="30">
 <img src="img/netbeans.png" width="30" height="30">
+<br>
 </div>
+
+### Stats
+
+[![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexey1254&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
