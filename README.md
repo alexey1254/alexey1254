@@ -6,8 +6,12 @@
 - 🐣 **2021 goals:** Be a good developer and contribute to open source projects. 
 - 🕵🏻‍♂️**I'm currently learning everything** 
 
-### Languages and tools: 
+<br>
+
 <div align="center">
+
+<h3> Languages and tools: <h3>
+
 <img src="img/java.jpg" width="40" height="30">
 <img src="img/css.png" width="30" height="30">
 <img src="img/git.png" width="30" height="30">
