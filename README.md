@@ -6,6 +6,13 @@
 - 🐣 **2021 goals:** Be a good developer and contribute to open source projects. 
 - 🕵🏻‍♂️**I'm currently learning everything** 
 
+## Most used repositories: 
+
+<a href="https://github.com/alexey1254/ENTORNOS-DE-DESARROLLO">Entornos de desarrollo</a><br>
+<a href="https://github.com/alexey1254/LENGUAJES-DE-MARCA">Lenguajes de marca</a><br>
+<a href="https://github.com/alexey1254/PROGRAMACION">Programación</a>
+
+
 <br>
 
 <div align="center">
