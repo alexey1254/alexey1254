@@ -8,10 +8,11 @@
 
 ## Most used repositories: 
 
-<a href="https://github.com/alexey1254/ENTORNOS-DE-DESARROLLO">Entornos de desarrollo</a><br>
-<a href="https://github.com/alexey1254/LENGUAJES-DE-MARCA">Lenguajes de marca</a><br>
-<a href="https://github.com/alexey1254/PROGRAMACION">Programación</a>
+### [Entornos de desarrollo](https://github.com/alexey1254/ENTORNOS-DE-DESARROLLO)
 
+### [Lenguajes de marca](https://github.com/alexey1254/LENGUAJES-DE-MARCA)
+
+### [Programación](https://github.com/alexey1254/PROGRAMACION)
 
 <br>
 
